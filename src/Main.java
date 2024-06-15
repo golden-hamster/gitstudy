@@ -12,5 +12,6 @@ public class Main {
         System.out.println("집에서 깃 크라켄에 연동을 했습니다");
         System.out.println("1221연습");
         System.out.println("1221연습-2");
+        System.out.println("1221연습-3");
     }
 }
